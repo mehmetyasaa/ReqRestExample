@@ -1,16 +1,6 @@
-# server_dio
+# Flutter ReqRes Resource Örneği
 
-A new Flutter project.
+Bu proje, [HardwareAndro](https://www.youtube.com/@HardwareAndro) kanalından Veli Hoca'nın Flutter eğitiminde öğrendiğim "req res resource" mantığını uyguladığım bir örnektir.
 
-## Getting Started
+Videoda öğrendiğim teknikleri kullanarak, Flutter uygulamalarında HTTP isteklerini yapmayı ve gelen verileri işlemeyi öğrendim. Bu örnekte, Dio paketi kullanarak bir RESTful API'den veri çekme işlemini gerçekleştik.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
